@@ -1,0 +1,1 @@
+// you will hardly be asked to implement array in an interview (its like derivation of formulas . While solving problems we are only concerned with applying the formulas and not actullly deriving the formula) But its good to konw the derivation
