@@ -1,3 +1,1 @@
-newArray.push("you");
-newArray.push("khushi");
-newArray.push("Snaju");
+this.data[this.length - 1];
