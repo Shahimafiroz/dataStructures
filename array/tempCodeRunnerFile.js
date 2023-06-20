@@ -1,1 +1,5 @@
-this.data[this.length - 1];
+while (j < n) {
+//     c[k] = b[j];
+//     j++;
+//     k++;
+//   }
